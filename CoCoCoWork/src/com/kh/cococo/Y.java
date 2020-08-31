@@ -10,6 +10,8 @@ public class Y {
 		System.out.println("테스트");
 	}
 	
-	
+	public void test2() {
+		
+	}
 	
 }
