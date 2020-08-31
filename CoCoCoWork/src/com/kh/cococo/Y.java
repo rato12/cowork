@@ -6,7 +6,7 @@ public class Y {
 		int total = 0;
 	}
 
-	public void test() {
+	public void test1() {
 		
 	}
 }
