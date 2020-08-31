@@ -6,4 +6,7 @@ public class Y {
 		
 	}
 
+	public void test() {
+		
+	}
 }
