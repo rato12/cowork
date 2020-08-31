@@ -11,7 +11,7 @@ public class Y {
 	}
 	
 	public void test2() {
-		
+		System.out.println("연동!!!");
 	}
 	
 }
